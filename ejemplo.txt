@@ -1,1 +1,0 @@
-Breve descripción sobre el avance del manual de git. Hasta ahora se ha creado una carpeta, se ha iniciado en ella el respositorio y se ha creado este txt.
