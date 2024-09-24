@@ -1,1 +1,3 @@
 el color es verde
+el color es azul
+el color es rojo
